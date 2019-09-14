@@ -1,0 +1,20 @@
+.acumed {
+  display: block;
+  width: 100%;
+  height: 60px;
+  padding-bottom: 10px;
+  align-items: baseline;
+}
+.acumed img{
+  float: right;
+  height: 100%;
+}
+
+.acumed a {
+  position: absolute;
+  bottom: 0;
+}
+
+.reveal .slides {
+  top: 65px;
+}
